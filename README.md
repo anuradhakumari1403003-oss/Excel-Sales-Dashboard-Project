@@ -22,8 +22,7 @@ An interactive Excel dashboard designed to analyse sales performance, revenue, p
 - Country-wise Map Chart
 - Interactive Slicers
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](./images/dashboard.png)
-
+![Dashboard Preview](Sales_Dashboard.png)
 ## 👩‍💻 Author
 **Anuradha Kumari**
 
